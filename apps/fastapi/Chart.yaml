@@ -1,3 +1,4 @@
+---
 apiVersion: v2
 name: fastapi-demo
 description: FastAPI + Helm + Ingress example
